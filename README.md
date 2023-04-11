@@ -9,5 +9,5 @@ Imagine that you have joined as a Product Owner for a CRM Platform in an investm
 
 
 
-2. Part 2: Now, let us assume that you have got this feature built with the suport of your tech and operations team. Explain how would you go about the launch plan of the specific product. In an ideal solution, we would expect an explanation of your launch process and strategy for this feature and a written solution in the form of a blog post (you may use markdown or any other format you desire to communicate) in around 300 words to be shared with your correspomding audience.
+2. Part 2: Now, let us assume that you have got this feature built with the suport of your tech and operations team. Explain how would you go about the launch plan of the specific product. In an ideal solution, we would expect an explanation of your launch process and strategy for this feature and a written solution in the form of a blog post (you may use markdown or any other format you desire to communicate) in around 300 words to be shared with your corresponding audience.
 
